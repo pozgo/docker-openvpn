@@ -1,6 +1,6 @@
 ### OpenVPN in a docker with support for Raspberry PI
 
-[![Build Status](https://travis-ci.org/polinux/docker-openvpn.svg)](https://travis-ci.org/polinux/docker-openvpn)  
+[![Build Status](https://travis-ci.org/pozgo/docker-openvpn.svg)](https://travis-ci.org/pozgo/docker-openvpn)  
 [![GitHub Open Issues](https://img.shields.io/github/issues/pozgo/docker-openvpn.svg)](https://github.com/pozgo/docker-openvpn/issues)
 [![GitHub Stars](https://img.shields.io/github/stars/pozgo/docker-openvpn.svg)](https://github.com/pozgo/docker-openvpn)
 [![GitHub Forks](https://img.shields.io/github/forks/pozgo/docker-openvpn.svg)](https://github.com/pozgo/docker-openvpn)  
