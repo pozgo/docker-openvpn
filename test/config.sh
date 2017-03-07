@@ -12,6 +12,5 @@ imageTests+=(
         basic
         dual-proto
         otp
-	iptables
 	'
 )
