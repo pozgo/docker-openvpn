@@ -1,4 +1,4 @@
-FROM alpine:3.5
+FROM aarch64/alpine:3.5
 
 ENV   OPENVPN=/etc/openvpn \
       EASYRSA=/usr/share/easy-rsa \
