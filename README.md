@@ -17,7 +17,7 @@ OpenVPN server in a Docker container complete with an EasyRSA PKI CA.
 
 ### Raspberry PI Support
 Use tag `:armhf` to deploy arm-based image
-Tested on Pi - 1 
+Tested on Pi - 1
 
 `polinux/openvpn:armhf`
 
@@ -45,7 +45,7 @@ Tested on Pi - 1
 
         docker run -v $OVPN_DATA:/etc/openvpn --rm polinux/openvpn ovpn_getclient CLIENTNAME > CLIENTNAME.ovpn
 
-        
+
 ## Debugging Tips
 
 * Create an environment variable with the name DEBUG and value of 1 to enable debug output (using "docker -e").
@@ -171,4 +171,4 @@ of a guarantee in the future.
 ## Author
 Przemyslaw Ozgo (<linux@ozgo.info>)
 
-This work is also inspired by [polinux](https://github.com/polinux)'s work on his [docker image](https://github.com/polinux/docker-openvpn/). Many thanks!!!
+This work is also inspired by [kylemanna](https://github.com/kylemanna)'s work on his [docker image](https://github.com/kylemanna/docker-openvpn). Many thanks!!!
